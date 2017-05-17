@@ -1,0 +1,76 @@
+body {
+	/*background: blue;*/
+}
+.hye{
+	color: white;
+	width: 100px;
+	height: 30px;
+	background: red;
+}
+.text {
+	width: 300px;
+	height: 50px;
+	background: blue;
+}
+hr {
+	width: 300px;
+	float: left;
+}
+.end {
+	width: 300px;
+	height: 50px;
+	background: yellow;
+	font-size: 20px;
+}
+.one{
+	background: red;
+	width: 50px;
+	height: 50px;
+}
+.two {
+	background: orange;
+	width: 100px;
+	height: 50px;
+}
+.three {
+	background: blue;
+	width: 200px;
+	height: 50px;
+}
+.joy {
+	font-size: 20px;
+}
+.caption {
+	background: #E3D9D9;
+	width: 500px;
+	height: 200px;
+}
+.caption h1 {
+	color: #794b4b;
+}
+.caption h3 {
+	color: #685d61;
+}
+a {
+	color: green;
+}
+.form {
+	border: 3px dashed black;
+	width: 450px;
+	height: 50px;
+	margin: 20px 0;
+	padding: 20px;
+}
+.formula {
+	border: 3px dashed black;
+	width: 450px;
+	height: 50px;
+	margin: 20px 0;
+	padding: 20px;
+}
+.formula sub {
+	color: blue;
+}
+.formula sup {
+	color: red;
+}
